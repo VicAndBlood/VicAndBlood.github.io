@@ -1729,7 +1729,7 @@
 			}
 /* Digital Banner */
 #digitalbanner {
-            background: #ffffff url("../../images/videogameheader.png");
+            background: #ffffff url("../../images/digitalreal.png");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -1754,7 +1754,7 @@
                         
 /* Designs Banner */
 #designsbanner {
-            background: #ffffff url("../../images/videogameheader.png");
+            background: #ffffff url("../../images/digitalheader.png");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2159,6 +2159,69 @@
 					}
 
 					#comicsbanner header p {
+						font-size: 1.5em;
+					}
+                                        
+                                        #digitalbanner {
+				position: relative;
+				padding: 8em 0;
+				margin: 4em 0 0 0;
+			}
+
+				#digitalbanner header {
+					display: inline-block;
+					padding: 2.5em 5em;
+					border-radius: 5px;
+				}
+
+					#digitalbanner header h2 {
+						font-size: 2.5em;
+						margin: 0 0 0.65em 0;
+					}
+
+					#digitalbanner header p {
+						font-size: 1.5em;
+					}
+                                        
+                                        #designsbanner {
+				position: relative;
+				padding: 8em 0;
+				margin: 4em 0 0 0;
+			}
+
+				#designsbanner header {
+					display: inline-block;
+					padding: 2.5em 5em;
+					border-radius: 5px;
+				}
+
+					#designsbanner header h2 {
+						font-size: 2.5em;
+						margin: 0 0 0.65em 0;
+					}
+
+					#designsbanner header p {
+						font-size: 1.5em;
+					}
+                                        
+                                        #musicbanner {
+				position: relative;
+				padding: 8em 0;
+				margin: 4em 0 0 0;
+			}
+
+				#musicbanner header {
+					display: inline-block;
+					padding: 2.5em 5em;
+					border-radius: 5px;
+				}
+
+					#musicbanner header h2 {
+						font-size: 2.5em;
+						margin: 0 0 0.65em 0;
+					}
+
+					#musicbanner header p {
 						font-size: 1.5em;
 					}
                                         
